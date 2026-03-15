@@ -16,5 +16,5 @@
 - Next.js
 
 📫 Connect With Me
-LinkedIn: https://linkedin.com/
-Email: yourmail@gmail.com
+LinkedIn: https://linkedin.com/anupamkatiyar
+Email: anupamkatiyar934mail@gmail.com
